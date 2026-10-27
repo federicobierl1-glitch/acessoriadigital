@@ -1,0 +1,22 @@
+SITE CARLOS DA SILVA
+Arquivos:
+- index.html: página inicial
+- sobre.html: apresentação da empresa
+- politica-de-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- css/style.css: estilos personalizados
+- js/main.js: pequenos comportamentos do site
+- img/: imagens fornecidas
+
+Como publicar:
+1. Extraia todos os arquivos mantendo a estrutura de pastas.
+2. Envie o conteúdo para a hospedagem do seu domínio.
+3. Teste os links, telefone, WhatsApp e e-mail.
+4. Revise os textos legais de acordo com as ferramentas realmente instaladas no site.
+
+Atenção:
+- Bootstrap, Bootstrap Icons e Google Fonts são carregados por CDN, então a hospedagem precisa ter acesso à internet.
+- A primeira imagem fornecida parece conter marca d'água/licenciamento de banco de imagens. Confirme que possui licença de uso antes de publicar; substitua por uma imagem licenciada se necessário.
+- O site não possui checkout, formulário de pedido nem integração de pagamentos.
+- Antes de anunciar no Google Ads, confira se o nome empresarial, CNPJ, endereço, telefone e atividade estão exatamente de acordo com os registros e com a oferta real.
+- A política de privacidade deve ser atualizada caso sejam instalados cookies publicitários, Google Analytics, formulários ou outras ferramentas de terceiros.
